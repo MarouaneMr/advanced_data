@@ -1,0 +1,423 @@
+industry_id,industry_name,cluster
+1,Defense and Space Manufacturing,Aerospace and Defense
+3,Computer Hardware Manufacturing,Hardware and Electronics
+4,Software Development,Software and IT Services
+5,Computer Networking Products,Software and IT Services
+6,"Technology, Information and Internet",Miscellaneous and Other Services
+7,Semiconductor Manufacturing,Hardware and Electronics
+8,Telecommunications,Telecommunications and Networking
+9,Law Practice,Legal and Law Enforcement
+10,Legal Services,Legal and Law Enforcement
+11,Business Consulting and Services,Miscellaneous and Other Services
+12,Biotechnology Research,Healthcare and Biotechnology
+13,Medical Practices,Miscellaneous and Other Services
+14,Hospitals and Health Care,Healthcare and Biotechnology
+15,Pharmaceutical Manufacturing,Healthcare and Biotechnology
+16,Veterinary Services,Healthcare and Biotechnology
+17,Medical Equipment Manufacturing,Healthcare and Biotechnology
+18,Personal Care Product Manufacturing,Personal Care and Wellness
+19,Retail Apparel and Fashion,Retail and Consumer Goods
+20,Sporting Goods Manufacturing,Retail and Consumer Goods
+21,Tobacco Manufacturing,Miscellaneous and Other Services
+22,Retail Groceries,Food and Beverage
+23,Food and Beverage Manufacturing,Food and Beverage
+24,Computers and Electronics Manufacturing,Miscellaneous and Other Services
+25,Manufacturing,Miscellaneous and Other Services
+26,Furniture and Home Furnishings Manufacturing,Miscellaneous and Other Services
+27,Retail,Miscellaneous and Other Services
+28,Entertainment Providers,Miscellaneous and Other Services
+29,Gambling Facilities and Casinos,Miscellaneous and Other Services
+30,Travel Arrangements,Hospitality and Travel
+31,Hospitality,Hospitality and Travel
+32,Restaurants,Hospitality and Travel
+33,Spectator Sports,Sports and Recreation
+34,Food and Beverage Services,Miscellaneous and Other Services
+35,"Movies, Videos, and Sound",Media and Entertainment
+36,Broadcast Media Production and Distribution,Miscellaneous and Other Services
+37,"Museums, Historical Sites, and Zoos",Miscellaneous and Other Services
+38,Artists and Writers,Creative Arts and Design
+39,Performing Arts,Media and Entertainment
+40,Recreational Facilities,Sports and Recreation
+41,Banking,Finance and Banking
+42,Insurance,Finance and Banking
+43,Financial Services,Finance and Banking
+44,Real Estate,Real Estate and Construction
+45,Investment Banking,Miscellaneous and Other Services
+46,Investment Management,Finance and Banking
+47,Accounting,Miscellaneous and Other Services
+48,Construction,Miscellaneous and Other Services
+49,Wholesale Building Materials,Miscellaneous and Other Services
+50,Architecture and Planning,Real Estate and Construction
+51,Civil Engineering,Miscellaneous and Other Services
+52,Aviation and Aerospace Component Manufacturing,Aerospace and Defense
+53,Motor Vehicle Manufacturing,Miscellaneous and Other Services
+54,Chemical Manufacturing,Manufacturing and Industry
+55,Machinery Manufacturing,Miscellaneous and Other Services
+56,Mining,Miscellaneous and Other Services
+57,Oil and Gas,Energy and Utilities
+58,Shipbuilding,Miscellaneous and Other Services
+59,Utilities,Miscellaneous and Other Services
+60,Textile Manufacturing,Manufacturing and Industry
+61,Paper and Forest Product Manufacturing,Miscellaneous and Other Services
+62,Railroad Equipment Manufacturing,Miscellaneous and Other Services
+63,Farming,Agriculture and Farming
+65,Dairy Product Manufacturing,Agriculture and Farming
+66,Fisheries,Miscellaneous and Other Services
+67,Primary and Secondary Education,Education and Training
+68,Higher Education,Education and Training
+69,Education Administration Programs,Miscellaneous and Other Services
+70,Research Services,Miscellaneous and Other Services
+71,Armed Forces,Miscellaneous and Other Services
+72,Legislative Offices,Miscellaneous and Other Services
+73,Administration of Justice,Legal and Law Enforcement
+74,International Affairs,Miscellaneous and Other Services
+75,Government Administration,Miscellaneous and Other Services
+76,Executive Offices,Miscellaneous and Other Services
+77,Law Enforcement,Miscellaneous and Other Services
+78,Public Safety,Legal and Law Enforcement
+79,Public Policy Offices,Miscellaneous and Other Services
+80,Advertising Services,"Marketing, Advertising, and Publishing"
+81,Newspaper Publishing,"Marketing, Advertising, and Publishing"
+82,Book and Periodical Publishing,"Marketing, Advertising, and Publishing"
+83,Printing Services,Miscellaneous and Other Services
+84,Information Services,Miscellaneous and Other Services
+85,Libraries,Miscellaneous and Other Services
+86,Environmental Services,Environmental and Sustainability
+87,Freight and Package Transportation,Miscellaneous and Other Services
+88,Individual and Family Services,Miscellaneous and Other Services
+89,Religious Institutions,Non-Profit and Civic Organizations
+90,Civic and Social Organizations,Non-Profit and Civic Organizations
+91,Consumer Services,Miscellaneous and Other Services
+92,Truck Transportation,Transportation and Logistics
+93,Warehousing and Storage,Transportation and Logistics
+94,Airlines and Aviation,Hospitality and Travel
+95,Maritime Transportation,Transportation and Logistics
+96,IT Services and IT Consulting,Software and IT Services
+97,Market Research,Miscellaneous and Other Services
+98,Public Relations and Communications Services,Miscellaneous and Other Services
+99,Design Services,Miscellaneous and Other Services
+100,Non-profit Organizations,Non-Profit and Civic Organizations
+101,Fundraising,Miscellaneous and Other Services
+102,Strategic Management Services,Professional Services and Consulting
+103,Writing and Editing,Miscellaneous and Other Services
+104,Staffing and Recruiting,Professional Services and Consulting
+105,Professional Training and Coaching,Miscellaneous and Other Services
+106,Venture Capital and Private Equity Principals,Finance and Banking
+107,Political Organizations,Miscellaneous and Other Services
+108,Translation and Localization,Miscellaneous and Other Services
+109,Computer Games,Miscellaneous and Other Services
+110,Events Services,Miscellaneous and Other Services
+111,Retail Art Supplies,Miscellaneous and Other Services
+112,"Appliances, Electrical, and Electronics Manufacturing",Miscellaneous and Other Services
+113,Online Audio and Video Media,Miscellaneous and Other Services
+114,Nanotechnology Research,Miscellaneous and Other Services
+115,Musicians,Miscellaneous and Other Services
+116,"Transportation, Logistics, Supply Chain and Storage",Transportation and Logistics
+117,Plastics Manufacturing,Miscellaneous and Other Services
+118,Computer and Network Security,Miscellaneous and Other Services
+119,Wireless Services,Telecommunications and Networking
+120,Alternative Dispute Resolution,Miscellaneous and Other Services
+121,Security and Investigations,Miscellaneous and Other Services
+122,Facilities Services,Miscellaneous and Other Services
+123,Outsourcing and Offshoring Consulting,Miscellaneous and Other Services
+124,Wellness and Fitness Services,Personal Care and Wellness
+125,Alternative Medicine,Personal Care and Wellness
+126,Media Production,Miscellaneous and Other Services
+127,Animation and Post-production,Media and Entertainment
+128,Leasing Non-residential Real Estate,Real Estate and Construction
+129,Capital Markets,Finance and Banking
+130,Think Tanks,Miscellaneous and Other Services
+131,Philanthropic Fundraising Services,Miscellaneous and Other Services
+132,E-Learning Providers,Education and Training
+133,Wholesale,Miscellaneous and Other Services
+134,Wholesale Import and Export,Miscellaneous and Other Services
+135,Industrial Machinery Manufacturing,Manufacturing and Industry
+136,Photography,Creative Arts and Design
+137,Human Resources Services,Miscellaneous and Other Services
+138,Retail Office Equipment,Miscellaneous and Other Services
+139,Mental Health Care,Healthcare and Biotechnology
+140,Graphic Design,Miscellaneous and Other Services
+141,International Trade and Development,Miscellaneous and Other Services
+142,Beverage Manufacturing,Food and Beverage
+143,Retail Luxury Goods and Jewelry,Miscellaneous and Other Services
+144,Renewable Energy Semiconductor Manufacturing,Hardware and Electronics
+145,"Glass, Ceramics and Concrete Manufacturing",Miscellaneous and Other Services
+146,Packaging and Containers Manufacturing,Miscellaneous and Other Services
+147,Automation Machinery Manufacturing,Miscellaneous and Other Services
+148,Government Relations Services,Miscellaneous and Other Services
+150,Horticulture,Miscellaneous and Other Services
+201,"Farming, Ranching, Forestry",Miscellaneous and Other Services
+298,Forestry and Logging,Agriculture and Farming
+332,"Oil, Gas, and Mining",Miscellaneous and Other Services
+382,"Electric Power Transmission, Control, and Distribution",Miscellaneous and Other Services
+383,Electric Power Generation,Energy and Utilities
+387,Solar Electric Power Generation,Energy and Utilities
+388,Environmental Quality Programs,Miscellaneous and Other Services
+397,Natural Gas Distribution,Miscellaneous and Other Services
+398,"Water, Waste, Steam, and Air Conditioning Services",Environmental and Sustainability
+406,Building Construction,Real Estate and Construction
+408,Residential Building Construction,Miscellaneous and Other Services
+413,Nonresidential Building Construction,Miscellaneous and Other Services
+419,Utility System Construction,Real Estate and Construction
+431,,Miscellaneous and Other Services
+435,Specialty Trade Contractors,Miscellaneous and Other Services
+453,Building Equipment Contractors,Miscellaneous and Other Services
+481,Animal Feed Manufacturing,Agriculture and Farming
+495,Sugar and Confectionery Product Manufacturing,Miscellaneous and Other Services
+521,Meat Products Manufacturing,Miscellaneous and Other Services
+528,Seafood Product Manufacturing,Miscellaneous and Other Services
+529,Baked Goods Manufacturing,Food and Beverage
+564,,Miscellaneous and Other Services
+598,Apparel Manufacturing,Miscellaneous and Other Services
+615,Fashion Accessories Manufacturing,Miscellaneous and Other Services
+616,,Miscellaneous and Other Services
+622,Footwear Manufacturing,Miscellaneous and Other Services
+679,Oil and Coal Product Manufacturing,Miscellaneous and Other Services
+690,Chemical Raw Materials Manufacturing,Miscellaneous and Other Services
+709,Agricultural Chemical Manufacturing,Miscellaneous and Other Services
+722,"Paint, Coating, and Adhesive Manufacturing",Miscellaneous and Other Services
+727,Soap and Cleaning Product Manufacturing,Miscellaneous and Other Services
+743,Plastics and Rubber Product Manufacturing,Miscellaneous and Other Services
+763,Rubber Products Manufacturing,Miscellaneous and Other Services
+779,Glass Product Manufacturing,Miscellaneous and Other Services
+784,Wood Product Manufacturing,Miscellaneous and Other Services
+799,Abrasives and Nonmetallic Minerals Manufacturing,Miscellaneous and Other Services
+807,Primary Metal Manufacturing,Miscellaneous and Other Services
+840,Fabricated Metal Products,Miscellaneous and Other Services
+852,Architectural and Structural Metal Manufacturing,Miscellaneous and Other Services
+861,"Boilers, Tanks, and Shipping Container Manufacturing",Miscellaneous and Other Services
+871,Construction Hardware Manufacturing,Miscellaneous and Other Services
+873,Spring and Wire Product Manufacturing,Miscellaneous and Other Services
+876,Turned Products and Fastener Manufacturing,Miscellaneous and Other Services
+883,Metal Treatments,Miscellaneous and Other Services
+887,"Metal Valve, Ball, and Roller Manufacturing",Miscellaneous and Other Services
+901,"Agriculture, Construction, Mining Machinery Manufacturing",Miscellaneous and Other Services
+918,Commercial and Service Industry Machinery Manufacturing,Miscellaneous and Other Services
+923,HVAC and Refrigeration Equipment Manufacturing,Miscellaneous and Other Services
+928,Metalworking Machinery Manufacturing,Manufacturing and Industry
+935,Engines and Power Transmission Equipment Manufacturing,Miscellaneous and Other Services
+964,Communications Equipment Manufacturing,Telecommunications and Networking
+973,Audio and Video Equipment Manufacturing,Hardware and Electronics
+983,Measuring and Control Instrument Manufacturing,Miscellaneous and Other Services
+994,Magnetic and Optical Media Manufacturing,Miscellaneous and Other Services
+998,Electric Lighting Equipment Manufacturing,Miscellaneous and Other Services
+1029,Transportation Equipment Manufacturing,Miscellaneous and Other Services
+1042,Motor Vehicle Parts Manufacturing,Miscellaneous and Other Services
+1080,Household and Institutional Furniture Manufacturing,Miscellaneous and Other Services
+1090,Office Furniture and Fixtures Manufacturing,Miscellaneous and Other Services
+1095,Mattress and Blinds Manufacturing,Miscellaneous and Other Services
+1128,Wholesale Motor Vehicles and Parts,Miscellaneous and Other Services
+1137,Wholesale Furniture and Home Furnishings,Miscellaneous and Other Services
+1153,Wholesale Photography Equipment and Supplies,Miscellaneous and Other Services
+1157,Wholesale Computer Equipment,Miscellaneous and Other Services
+1166,Wholesale Metals and Minerals,Miscellaneous and Other Services
+1171,"Wholesale Appliances, Electrical, and Electronics",Miscellaneous and Other Services
+1178,"Wholesale Hardware, Plumbing, Heating Equipment",Miscellaneous and Other Services
+1187,Wholesale Machinery,Miscellaneous and Other Services
+1206,Wholesale Recyclable Materials,Miscellaneous and Other Services
+1208,Wholesale Luxury Goods and Jewelry,Miscellaneous and Other Services
+1212,Wholesale Paper Products,Miscellaneous and Other Services
+1221,Wholesale Drugs and Sundries,Miscellaneous and Other Services
+1222,Wholesale Apparel and Sewing Supplies,Miscellaneous and Other Services
+1230,Wholesale Footwear,Miscellaneous and Other Services
+1231,Wholesale Food and Beverage,Miscellaneous and Other Services
+1250,Wholesale Raw Farm Products,Miscellaneous and Other Services
+1257,Wholesale Chemical and Allied Products,Miscellaneous and Other Services
+1262,Wholesale Petroleum and Petroleum Products,Miscellaneous and Other Services
+1267,Wholesale Alcoholic Beverages,Miscellaneous and Other Services
+1285,Internet Marketplace Platforms,Miscellaneous and Other Services
+1292,Retail Motor Vehicles,Retail and Consumer Goods
+1309,Retail Furniture and Home Furnishings,Miscellaneous and Other Services
+1319,"Retail Appliances, Electrical, and Electronic Equipment",Miscellaneous and Other Services
+1324,Retail Building Materials and Garden Equipment,Retail and Consumer Goods
+1339,Food and Beverage Retail,Miscellaneous and Other Services
+1359,Retail Health and Personal Care Products,Miscellaneous and Other Services
+1407,Retail Musical Instruments,Miscellaneous and Other Services
+1409,Retail Books and Printed News,Miscellaneous and Other Services
+1423,Retail Florists,Miscellaneous and Other Services
+1424,Retail Office Supplies and Gifts,Miscellaneous and Other Services
+1431,Retail Recyclable Materials & Used Merchandise,Miscellaneous and Other Services
+1445,Online and Mail Order Retail,Miscellaneous and Other Services
+1481,Rail Transportation,Transportation and Logistics
+1495,Ground Passenger Transportation,Miscellaneous and Other Services
+1497,Urban Transit Services,Miscellaneous and Other Services
+1512,School and Employee Bus Services,Miscellaneous and Other Services
+1517,,Miscellaneous and Other Services
+1520,Pipeline Transportation,Miscellaneous and Other Services
+1594,"Technology, Information and Media",Miscellaneous and Other Services
+1600,,Miscellaneous and Other Services
+1602,,Miscellaneous and Other Services
+1633,,Miscellaneous and Other Services
+1649,,Miscellaneous and Other Services
+1673,Credit Intermediation,Miscellaneous and Other Services
+1696,Loan Brokers,Miscellaneous and Other Services
+1713,Securities and Commodity Exchanges,Miscellaneous and Other Services
+1720,Investment Advice,Miscellaneous and Other Services
+1725,Insurance Carriers,Miscellaneous and Other Services
+1737,Insurance Agencies and Brokerages,Miscellaneous and Other Services
+1738,"Claims Adjusting, Actuarial Services",Miscellaneous and Other Services
+1742,Funds and Trusts,Miscellaneous and Other Services
+1743,Insurance and Employee Benefit Funds,Miscellaneous and Other Services
+1745,Pension Funds,Miscellaneous and Other Services
+1750,Trusts and Estates,Miscellaneous and Other Services
+1757,Real Estate and Equipment Rental Services,Miscellaneous and Other Services
+1759,,Miscellaneous and Other Services
+1770,Real Estate Agents and Brokers,Miscellaneous and Other Services
+1779,Equipment Rental Services,Miscellaneous and Other Services
+1786,Consumer Goods Rental,Miscellaneous and Other Services
+1798,Commercial and Industrial Equipment Rental,Miscellaneous and Other Services
+1810,Professional Services,Miscellaneous and Other Services
+1855,IT System Design Services,Miscellaneous and Other Services
+1862,Marketing Services,Miscellaneous and Other Services
+1905,Holding Companies,Miscellaneous and Other Services
+1909,,Miscellaneous and Other Services
+1912,Administrative and Support Services,Miscellaneous and Other Services
+1916,Office Administration,Miscellaneous and Other Services
+1923,Executive Search Services,Miscellaneous and Other Services
+1931,Telephone Call Centers,Miscellaneous and Other Services
+1938,Collection Agencies,Miscellaneous and Other Services
+1956,,Miscellaneous and Other Services
+1958,Security Systems Services,Miscellaneous and Other Services
+1965,Janitorial Services,Miscellaneous and Other Services
+1981,,Miscellaneous and Other Services
+1986,Waste Treatment and Disposal,Miscellaneous and Other Services
+1999,Education,Miscellaneous and Other Services
+2018,Technical and Vocational Training,Education and Training
+2020,,Miscellaneous and Other Services
+2027,Sports and Recreation Instruction,Miscellaneous and Other Services
+2045,Dentists,Miscellaneous and Other Services
+2050,,Miscellaneous and Other Services
+2054,"Physical, Occupational and Speech Therapists",Miscellaneous and Other Services
+2069,Medical and Diagnostic Laboratories,Miscellaneous and Other Services
+2074,Home Health Care Services,Miscellaneous and Other Services
+2081,Hospitals,Miscellaneous and Other Services
+2091,Nursing Homes and Residential Care Facilities,Healthcare and Biotechnology
+2112,,Miscellaneous and Other Services
+2115,Community Services,Miscellaneous and Other Services
+2122,,Miscellaneous and Other Services
+2125,,Miscellaneous and Other Services
+2128,,Miscellaneous and Other Services
+2130,Performing Arts and Spectator Sports,Miscellaneous and Other Services
+2133,Theater Companies,Miscellaneous and Other Services
+2142,Sports Teams and Clubs,Miscellaneous and Other Services
+2159,Museums,Miscellaneous and Other Services
+2163,Zoos and Botanical Gardens,Miscellaneous and Other Services
+2167,Amusement Parks and Arcades,Sports and Recreation
+2179,Golf Courses and Country Clubs,Sports and Recreation
+2190,Accommodation and Food Services,Miscellaneous and Other Services
+2194,Hotels and Motels,Miscellaneous and Other Services
+2197,"Bed-and-Breakfasts, Hostels, Homestays",Hospitality and Travel
+2212,Caterers,Hospitality and Travel
+2225,Repair and Maintenance,Miscellaneous and Other Services
+2226,Vehicle Repair and Maintenance,Miscellaneous and Other Services
+2247,,Miscellaneous and Other Services
+2253,,Miscellaneous and Other Services
+2258,Personal and Laundry Services,Miscellaneous and Other Services
+2259,Personal Care Services,Miscellaneous and Other Services
+2272,,Miscellaneous and Other Services
+2282,,Miscellaneous and Other Services
+2318,Household Services,Miscellaneous and Other Services
+2353,Health and Human Services,Miscellaneous and Other Services
+2358,Public Health,Miscellaneous and Other Services
+2360,Public Assistance Programs,Miscellaneous and Other Services
+2366,"Air, Water, and Waste Program Management",Miscellaneous and Other Services
+2368,Conservation Programs,Miscellaneous and Other Services
+2369,Housing and Community Development,Miscellaneous and Other Services
+2374,Community Development and Urban Planning,Miscellaneous and Other Services
+2375,Economic Programs,Miscellaneous and Other Services
+2391,Military and International Affairs,Miscellaneous and Other Services
+2401,Operations Consulting,Professional Services and Consulting
+2458,Data Infrastructure and Analytics,Miscellaneous and Other Services
+2468,Electrical Equipment Manufacturing,Miscellaneous and Other Services
+2489,Wind Electric Power Generation,Energy and Utilities
+2500,Wineries,Food and Beverage
+2934,Landscaping Services,Miscellaneous and Other Services
+3065,Courts of Law,Miscellaneous and Other Services
+3068,Correctional Institutions,Miscellaneous and Other Services
+3070,Fire Protection,Miscellaneous and Other Services
+3081,Housing Programs,Miscellaneous and Other Services
+3085,Transportation Programs,Miscellaneous and Other Services
+3086,Utilities Administration,Miscellaneous and Other Services
+3089,Space Research and Technology,Aerospace and Defense
+3099,,Miscellaneous and Other Services
+3100,,Miscellaneous and Other Services
+3101,Desktop Computing Software Products,Miscellaneous and Other Services
+3102,IT System Custom Software Development,Miscellaneous and Other Services
+3103,IT System Operations and Maintenance,Miscellaneous and Other Services
+3104,IT System Installation and Disposal,Miscellaneous and Other Services
+3105,IT System Training and Support,Miscellaneous and Other Services
+3106,IT System Data Services,Miscellaneous and Other Services
+3107,IT System Testing and Evaluation,Miscellaneous and Other Services
+3124,Internet News,Software and IT Services
+3126,Interior Design,Creative Arts and Design
+3127,Social Networking Platforms,Miscellaneous and Other Services
+3128,Business Intelligence Platforms,Miscellaneous and Other Services
+3129,Business Content,Miscellaneous and Other Services
+3130,Data Security Software Products,Software and IT Services
+3131,,Miscellaneous and Other Services
+3132,Internet Publishing,Software and IT Services
+3133,,Miscellaneous and Other Services
+3134,Blockchain Services,Software and IT Services
+3186,,Miscellaneous and Other Services
+3187,Defense & Space,Miscellaneous and Other Services
+3188,Veterinary,Miscellaneous and Other Services
+3189,Cosmetics,Miscellaneous and Other Services
+3190,Apparel & Fashion,Miscellaneous and Other Services
+3191,Consumer Electronics,Miscellaneous and Other Services
+3192,Consumer Goods,Miscellaneous and Other Services
+3193,Furniture,Miscellaneous and Other Services
+3194,"Leisure, Travel & Tourism",Miscellaneous and Other Services
+3195,Food & Beverages,Miscellaneous and Other Services
+3196,Fine Art,Miscellaneous and Other Services
+3197,Building Materials,Miscellaneous and Other Services
+3198,Automotive,Miscellaneous and Other Services
+3199,Dairy,Miscellaneous and Other Services
+3200,Education Management,Miscellaneous and Other Services
+3202,Non-profit Organization Management,Miscellaneous and Other Services
+3203,Program Development,Miscellaneous and Other Services
+3205,,Miscellaneous and Other Services
+3206,,Miscellaneous and Other Services
+3207,"Health, Wellness & Fitness",Miscellaneous and Other Services
+3208,E-learning,Miscellaneous and Other Services
+3209,,Miscellaneous and Other Services
+3210,Human Resources,Miscellaneous and Other Services
+3211,,Miscellaneous and Other Services
+3212,Luxury Goods & Jewelry,Miscellaneous and Other Services
+3213,Renewables & Environment,Miscellaneous and Other Services
+3214,Online Media,Media and Entertainment
+3216,Industrial Automation,Miscellaneous and Other Services
+3217,Medical Device,Miscellaneous and Other Services
+3218,Semiconductors,Miscellaneous and Other Services
+3219,Commercial Real Estate,Miscellaneous and Other Services
+3220,Wine & Spirits,Miscellaneous and Other Services
+3221,Mechanical Or Industrial Engineering,Miscellaneous and Other Services
+3222,Transportation/Trucking/Railroad,Miscellaneous and Other Services
+3223,Packaging & Containers,Miscellaneous and Other Services
+3224,Food Production,Food and Beverage
+3225,,Miscellaneous and Other Services
+3226,Aviation & Aerospace,Miscellaneous and Other Services
+3227,Design,Miscellaneous and Other Services
+3229,Warehousing,Miscellaneous and Other Services
+3230,,Miscellaneous and Other Services
+3231,Information Technology & Services,Miscellaneous and Other Services
+3232,,Miscellaneous and Other Services
+3233,Research,Miscellaneous and Other Services
+3234,Computer Networking,Miscellaneous and Other Services
+3235,Computer Hardware,Miscellaneous and Other Services
+3236,Maritime,Miscellaneous and Other Services
+3237,Entertainment,Miscellaneous and Other Services
+3238,Biotechnology,Miscellaneous and Other Services
+3239,Paper & Forest Products,Miscellaneous and Other Services
+3240,Renewable Energy Power Generation,Miscellaneous and Other Services
+3241,Renewable Energy Equipment Manufacturing,Energy and Utilities
+3242,Engineering Services,Miscellaneous and Other Services
+3243,Services for Renewable Energy,Miscellaneous and Other Services
+3244,Digital Accessibility Services,Miscellaneous and Other Services
+3246,Accessible Architecture and Design,Miscellaneous and Other Services
+3247,Robot Manufacturing,Miscellaneous and Other Services
+3248,Robotics Engineering,Miscellaneous and Other Services
+3249,Surveying and Mapping Services,Miscellaneous and Other Services
+3250,Retail Pharmacies,Miscellaneous and Other Services
+3251,Climate Technology Product Manufacturing,Miscellaneous and Other Services
+3252,Climate Data and Analytics,Environmental and Sustainability
+3253,Alternative Fuel Vehicle Manufacturing,Miscellaneous and Other Services
